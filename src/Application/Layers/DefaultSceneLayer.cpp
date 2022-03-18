@@ -157,7 +157,7 @@ void DefaultSceneLayer::_CreateScene()
 		MeshResource::Sptr cactusMesh = ResourceManager::CreateAsset<MeshResource>("cactus.obj");
 		MeshResource::Sptr smallCactusMesh = ResourceManager::CreateAsset<MeshResource>("smallBall.obj");
 		MeshResource::Sptr bigCactusMesh = ResourceManager::CreateAsset<MeshResource>("bigBall.obj");
-		MeshResource::Sptr snakeMesh = ResourceManager::CreateAsset<MeshResource>("snake.obj");
+		MeshResource::Sptr snakeMesh = ResourceManager::CreateAsset<MeshResource>("snake4.obj");
 
 		MeshResource::Sptr rock1Mesh = ResourceManager::CreateAsset<MeshResource>("rock1.obj");
 		MeshResource::Sptr rock2Mesh = ResourceManager::CreateAsset<MeshResource>("rock2.obj");
